@@ -18,6 +18,7 @@ Follow these steps to set up your development environment:
 ```bash
 # clone the repository in the folder of your choice, this is your new web project.
 git clone https://github.com/PieAreSquared11/Cardinal.Js
+```
 
 Then simply paste the following code into your <head> element.
 ```code
