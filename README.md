@@ -20,6 +20,6 @@ Follow these steps to set up your development environment:
 git clone https://github.com/PieAreSquared11/Cardinal.Js
 ```
 
-Then simply paste the following code into your <head> element.
+Then simply paste the following code into your head element.
 ```code
 <script src="parts/main.js"></script>
