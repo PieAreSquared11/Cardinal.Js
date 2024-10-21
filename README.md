@@ -12,6 +12,18 @@ A simple html-based library that adds many functions that make your web projects
 
 - **Language:** JavaScript
 
+## Docs
+- Initiate Your App:
+  ```code
+  const app = {
+    setup = new App;
+  }
+  ```
+- Above this:
+  ```code
+  class App {
+    main()  
+
 ## Installation
 
 Follow these steps to set up your development environment:
