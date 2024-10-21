@@ -1,7 +1,8 @@
-class App {
-    page = new HomePage;
+class App 
     main() {
-        return this.page.run();
+        return [
+            // your content
+        ]
     }
 }
 
