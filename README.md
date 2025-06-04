@@ -1,4 +1,4 @@
-# Cardinal.Js
+# Cardinal.Js (EXPERIMENTAL)
 
 A simple html-based library that adds many functions that make your web projects more fun and class-based. (in progress)
 
